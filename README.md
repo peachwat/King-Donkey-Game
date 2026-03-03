@@ -12,9 +12,9 @@ Gracz wciela się w postać, która musi pokonywać kolejne platformy, wspinać 
 * **Przeszkody**: Dynamicznie poruszające się beczki oraz przeciwnicy (Antagonista).
 
 ## Screeny z gry
-Oto jak prezentuje się rozgrywka:
+Oto jak prezentuje się gra:
 
-| Poziom 1 | Akcja na planszy |
+| Menu główne | Akcja na planszy |
 | :---: | :---: |
 | ![Screen 1](Img/screenshot1.jfif) | ![Screen 2](Img/screenshot2.jfif) |
 
