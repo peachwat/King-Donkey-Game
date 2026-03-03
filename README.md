@@ -1,7 +1,5 @@
 # King-Donkey-Game
 
-# King Donkey Game
-
 Projekt klasycznej gry zręcznościowej typu platformówka, zainspirowany legendarnym tytułem **Donkey Kong**. Gra została napisana w języku **C++** przy użyciu biblioteki **SDL2**.
 
 ## O Projekcie
